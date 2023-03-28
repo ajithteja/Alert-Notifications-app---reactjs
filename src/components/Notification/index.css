@@ -1,0 +1,19 @@
+.alert-main-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #b9c1cc;
+  padding: 18px;
+  padding-top: 23px;
+  width: 74%;
+  border-radius: 3px;
+  margin-bottom: 15px;
+}
+
+.cross-icon {
+  font-size: 20px;
+  font-weight: bold;
+  min-width: 23px;
+}
